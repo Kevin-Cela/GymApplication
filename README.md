@@ -4,7 +4,7 @@
 * [Application Functionality](#application-functionality)
 
 ## Description
-A software model and design for a functional gym aplicatipn project
+A software model and design for a functional gym application project
 
 This app is designed with the purpose of increasing customer convienence when using a gym, or in our case a chain of gyms, making it easier to arrange personal coaches, select courses and other quality of life functionalities such as a single membership for every gym of the same chain.
 
